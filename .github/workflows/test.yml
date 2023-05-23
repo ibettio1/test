@@ -1,7 +1,7 @@
 name: Demonstration
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   first-job:
